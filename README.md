@@ -19,4 +19,4 @@
   
   * ### [Projeção de preços de casas utilizando regressão linear múltipla.](Tensorflow/high_level_estimator_api_classifier_II/high_level_estimator_api_classifier_II.ipynb)
   
-  * ### [Projeção de preços de casas utilizando regressão linear múltipla.](Tensorflow/high_level_estimator_api_classifier_II/high_level_estimator_api_classifier_II.ipynb)
+  * ### [Classificação multiclasse para identificação de dígitos escritos.](Tensorflow/low_level_api_multiclass_classifier_handwritten_digits/tensorflow_low_level_api_multiclass_classifier_handwritten_digits.ipynb)
