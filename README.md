@@ -1,6 +1,6 @@
 # Machine Learning
 
-## Aqui temos alguns projetos de Machine Learning utilizando a linguagem Python com as bibliotecas do Tensorflow e Scikit-learn.
+## Aqui temos alguns projetos de Machine Learning utilizando a linguagem Python com as bibliotecas Tensorflow e Scikit-learn.
 <BR>
   
 * ## Scikit-learn Projetos
